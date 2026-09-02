@@ -21,6 +21,7 @@ jobs:
       - name: Simulate build
         run: echo "Building application..."
 
+     
       - name: Simulate automated tests
         run: echo "Running automated tests..."
 
