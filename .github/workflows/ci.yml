@@ -17,6 +17,7 @@ jobs:
       - name: Display repository information
         run: echo "Repository checked out successfully."
 
+     
       - name: Simulate build
         run: echo "Building application..."
 
