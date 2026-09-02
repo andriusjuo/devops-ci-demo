@@ -25,3 +25,6 @@ jobs:
 
       - name: Complete workflow
         run: echo "Continuous Integration completed successfully."
+      - name: Display current date and time
+        run: date
+
